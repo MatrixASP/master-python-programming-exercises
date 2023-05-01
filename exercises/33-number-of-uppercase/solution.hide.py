@@ -1,4 +1,4 @@
-s = raw_input()
+s = input()
 d={"UPPER CASE":0, "LOWER CASE":0}
 for c in s:
     if c.isupper():
